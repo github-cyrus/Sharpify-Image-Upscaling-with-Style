@@ -1,0 +1,6 @@
+gradio>=4.19.2
+diffusers>=0.25.1
+torch>=2.2.0
+transformers>=4.37.2
+Pillow>=10.2.0
+accelerate>=0.27.2 
